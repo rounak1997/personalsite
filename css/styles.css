@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+.top-container {
+  margin-top: 0;
+  background-color: #bbded6;
+  padding: 100px
+}
+
+h2 {
+  font-family: 'Montserrat';
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento';
+}
+
+.middle-container {background-color: #bbded6;
+
+}
+
+.bottom-container {background-color: #bbded6;
+  padding: 150px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 150px;
+  left: 350;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+  top: 10px;
+}
+.profile-pic
+{
+  height: 200px;
+  width: 200px;
+}
+.skills-pic
+{
+
+  height: 200px;
+  width: 200px;
+}
+.skill-game
+{
+  height: 200px;
+  width: 200px;
+}
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-width: 10px;
+   border-color: grey;
+   width: 10%;
+ }
+ p
+ {
+   font-family: 'Merriweather';
+ }
